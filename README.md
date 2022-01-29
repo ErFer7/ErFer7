@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=dark"/>
 </div>
     
-  a placeholder line!
+  ...
     
 </body>
 
