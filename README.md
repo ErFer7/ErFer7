@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+  
+<body>
+  
+<div class="row">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=dark"/>
+  -----
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=dark"/>
+</div>
+    
+  a placeholder line!
+    
+</body>
+
+</html>
