@@ -26,7 +26,6 @@
 <body>
 <div class="row">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true"/>
-  -----
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=compact"/>
 </div>
 </body>
@@ -38,3 +37,12 @@
 
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4)
+
+---
+
+## Contact info
+
+  <div>
+  <a href = "mailto:ericfernandes7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eric-fernandes7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
