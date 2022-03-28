@@ -1,36 +1,40 @@
-### (Em construção)
+### *Hi there 👋*
 
-<!--
-**ErFer7/ErFer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### **Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=101010)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=044F88)
+![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=500050)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=bd9d2b)
+
+### **Tools and IDEs**
+
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef)
+![](https://img.shields.io/badge/VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef)
+![](https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=323330)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=FF2C00)
+
+---
 
 <!DOCTYPE html>
 <html>
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-  
 <body>
-  
 <div class="row">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true"/>
   -----
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=compact"/>
 </div>
-    
-  ...
-    
 </body>
-
 </html>
+
+---
+
+### Here is what I'm learning
+
+![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=044F88)
+![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4)
