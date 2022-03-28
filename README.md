@@ -25,7 +25,7 @@
 </head>
 <body>
 <div class="row">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=compact"/>
 </div>
 </body>
