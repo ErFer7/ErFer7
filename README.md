@@ -37,6 +37,7 @@
 
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5d5086)
 
 ---
 
