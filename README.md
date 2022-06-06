@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=500050)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=bd9d2b)
+![](https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5d5086)
 
 ### **Tools and IDEs**
 
@@ -37,7 +38,6 @@
 
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=044F88)
 ![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5d5086)
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ec2023)
 ![](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=4285F4)
 
