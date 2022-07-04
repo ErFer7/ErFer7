@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Prolog-informational?style=for-the-badge&logo=prolog&logoColor=white&color=ee2023)
 ![](https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=101010)
+![](https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=10AA10)
 
 ---
 
