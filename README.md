@@ -41,6 +41,7 @@
 ![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ec2023)
 ![](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/Prolog-informational?style=for-the-badge&logo=prolog&logoColor=white&color=ee2023)
 
 ---
 
