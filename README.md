@@ -35,6 +35,10 @@
 </html>
 
 ---
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=erfer7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
 
 ### Here is what I'm learning
 
@@ -55,3 +59,7 @@
   <a href="https://www.linkedin.com/in/eric-fernandes7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   -->
   </div>
+
+---
+
+https://visitcount.itsvg.in/api?id=erfer7&icon=0&color=12
