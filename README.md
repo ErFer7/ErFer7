@@ -40,6 +40,7 @@
             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=31648C">
             <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=ec2023">
             <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=ec2023">
+            <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010"
         </div>
         <hr>
         <h3><b>Contact info</b></h3>
