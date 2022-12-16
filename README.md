@@ -15,6 +15,7 @@
             <img src="https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5d5086">
             <img src="https://img.shields.io/badge/Lisp-informational?style=for-the-badge&logo=lisp&logoColor=white&color=FFFFFF">
             <img src="https://img.shields.io/badge/Prolog-informational?style=for-the-badge&logo=prolog&logoColor=white&color=ee2023">
+            <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=ec2023">
         </div>
         <hr>
         <h3><b>Tools and IDEs</b></h3>
@@ -38,7 +39,6 @@
             <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=4285F4">
             <img src="https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=101010">
             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=31648C">
-            <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=ec2023">
             <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=ec2023">
             <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010"
         </div>
