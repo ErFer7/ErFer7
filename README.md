@@ -42,6 +42,7 @@
             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=31648C">
             <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=ec2023">
             <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e">
+            <img src="https://img.shields.io/badge/cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=436252">
         </div>
         <hr>
         <h3><b>Contact info</b></h3>
