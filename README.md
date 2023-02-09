@@ -4,7 +4,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
-        <h3><b><i>Hi there 👋</i></b></h3>
+        <h3><b><i>E aí | Hi there 👋</i></b></h3>
         <hr>
         <h3><b>Languages</b></h3>
         <div class="row">
