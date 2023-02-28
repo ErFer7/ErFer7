@@ -19,7 +19,7 @@
             <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010">
         </div>
         <hr>
-        <h3><b>Tools</b></h3>
+        <h3><b>Tools, frameworks, etc.</b></h3>
         <div class="row">
             <img src="https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef">
             <img src="https://img.shields.io/badge/VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef">
