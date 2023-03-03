@@ -6,12 +6,14 @@
     <body>
         <h3><b><i>E aí | Hi there 👋</i></b></h3>
         <hr>
-        <h3><b>Languages</b></h3>
+        <h3><b>Stack</b></h3>
         <div class="row">
-            <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=101010">
             <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=044F88">
             <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=500050">
+            <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=323330">
+            <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=101010">
             <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=bd9d2b">
+            <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=FF2C00">
             <img src="https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5d5086">
             <img src="https://img.shields.io/badge/Lisp-informational?style=for-the-badge&logo=lisp&logoColor=white&color=FFFFFF">
             <img src="https://img.shields.io/badge/Prolog-informational?style=for-the-badge&logo=prolog&logoColor=white&color=ee2023">
@@ -19,17 +21,9 @@
             <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010">
         </div>
         <hr>
-        <h3><b>Tools, frameworks, etc</b></h3>
         <div class="row">
-            <img src="https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef">
-            <img src="https://img.shields.io/badge/VisualStudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00a4ef">
-            <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=323330">
-            <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=FF2C00">
-        </div>
-        <hr>
-        <div class="row">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true"/>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=compact&langs_count=10&count_private=true"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=compact&langs_count=10&count_private=true&hide_border=true"/>
         </div>
         <hr>
         <h3><b>Here is what I'm learning</b></h3>
