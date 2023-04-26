@@ -38,6 +38,7 @@
             <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e">
             <img src="https://img.shields.io/badge/Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=436252">
             <img src="https://img.shields.io/badge/OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=60a7d6">
+            <img src="https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=31648C">
         </div>
         <hr>
         <h3><b>Contact info</b></h3>
