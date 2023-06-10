@@ -8,7 +8,7 @@
         <hr>
         <h3><b>Stack</b></h3>
         <div class="row">
-            <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=044F88">
+            <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C">
             <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=500050">
             <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=323330">
             <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=101010">
@@ -39,6 +39,8 @@
             <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e">
             <img src="https://img.shields.io/badge/Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=436252">
             <img src="https://img.shields.io/badge/OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=60a7d6">
+            <img src="https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=spring-boot&logoColor=white&color=6DB33F">
+            <img src="https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6">
         </div>
         <hr>
         <h3><b>Contact info</b></h3>
