@@ -52,9 +52,5 @@
             <a href="https://www.linkedin.com/in/eric-fernandes7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
             -->
         </div>
-        <hr>
-        <a href = "https://visitcount.itsvg.in">
-            <img src="https://visitcount.itsvg.in/api?id=erfer7&icon=0&color=12" target="_blank">
-        </a>
     </body>
 </html>
