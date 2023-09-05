@@ -6,7 +6,6 @@
     <body>
         <h3><b><i>E aí | Hi there 👋</i></b></h3>
         <hr>
-        <h3><b>Stack</b></h3>
         <div class="row">
             <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C">
             <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=500050">
