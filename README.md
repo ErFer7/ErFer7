@@ -34,8 +34,8 @@
         </div>
         <hr>
         <div class="row">
-            <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=donut-vertical&langs_count=10&count_private=true&hide_border=true"/>
-            <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=donut-vertical&langs_count=10&count_private=true&hide_border=true"/>
+            <img height=425 align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
         </div>
         <hr>
         <h3><b>Contact info</b></h3>
