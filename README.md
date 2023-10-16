@@ -8,38 +8,34 @@
         <hr>
         <div class="row">
             <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C">
-            <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=500050">
-            <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=323330">
-            <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=101010">
-            <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=bd9d2b">
-            <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=FF2C00">
-            <img src="https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5d5086">
+            <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=512BD4">
+            <img src="https://img.shields.io/badge/Unity-informational?style=for-the-badge&logo=unity&logoColor=white&color=000000">
+            <img src="https://img.shields.io/badge/C-informational?style=for-the-badge&logo=C&logoColor=white&color=A8B9CC">
+            <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB">
+            <img src="https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=F05032">
+            <img src="https://img.shields.io/badge/Haskell-informational?style=for-the-badge&logo=haskell&logoColor=white&color=5D4F85">
             <img src="https://img.shields.io/badge/Lisp-informational?style=for-the-badge&logo=lisp&logoColor=white&color=FFFFFF">
             <img src="https://img.shields.io/badge/Prolog-informational?style=for-the-badge&logo=prolog&logoColor=white&color=ee2023">
-            <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=ec2023">
-            <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010">
-            <img src="https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=31648C">
+            <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26">
+            <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25">
+            <img src="https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57">
+            <img src="https://img.shields.io/badge/Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=17202C">
             <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ec2023">
+<!--             <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED"> -->
+<!--             <img src="https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=0E1128"> -->
+<!--             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1"> -->
+<!--             <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=000000"> -->
+<!--             <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"> -->
+<!--             <img src="https://img.shields.io/badge/OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=5586A4"> -->
+<!--             <img src="https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F"> -->
+<!--             <img src="https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"> -->
+<!--             <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"> -->
+<!--             <img src="https://img.shields.io/badge/Css-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"> -->
         </div>
         <hr>
         <div class="row">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=compact&langs_count=10&count_private=true&hide_border=true"/>
             <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-        </div>
-        <hr>
-        <h3><b>Here is what I'm learning</b></h3>
-        <div class="row">
-            <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=044F88">
-            <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4">
-            <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=4285F4">
-            <img src="https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=101010">
-            <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=31648C">
-            <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=ec2023">
-            <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e">
-            <img src="https://img.shields.io/badge/Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=436252">
-            <img src="https://img.shields.io/badge/OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=60a7d6">
-            <img src="https://img.shields.io/badge/SpringBoot-informational?style=for-the-badge&logo=spring-boot&logoColor=white&color=6DB33F">
-            <img src="https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6">
         </div>
         <hr>
         <h3><b>Contact info</b></h3>
