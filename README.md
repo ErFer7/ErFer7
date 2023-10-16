@@ -19,6 +19,7 @@
             <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=ec2023">
             <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=101010">
             <img src="https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=31648C">
+            <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ec2023">
         </div>
         <hr>
         <div class="row">
@@ -30,7 +31,6 @@
         <div class="row">
             <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=044F88">
             <img src="https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=4285F4">
-            <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ec2023">
             <img src="https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=4285F4">
             <img src="https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=101010">
             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=31648C">
