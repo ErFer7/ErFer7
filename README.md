@@ -31,6 +31,7 @@
 <!--             <img src="https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"> -->
 <!--             <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"> -->
 <!--             <img src="https://img.shields.io/badge/Css-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"> -->
+<!--             <img src="https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031"> -->
         </div>
         <hr>
         <div class="row">
