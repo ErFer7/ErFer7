@@ -21,9 +21,9 @@
             <img src="https://img.shields.io/badge/SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57">
             <img src="https://img.shields.io/badge/Cypress-informational?style=for-the-badge&logo=cypress&logoColor=white&color=17202C">
             <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=ec2023">
+            <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1">
 <!--             <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED"> -->
 <!--             <img src="https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=0E1128"> -->
-<!--             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1"> -->
 <!--             <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=000000"> -->
 <!--             <img src="https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"> -->
 <!--             <img src="https://img.shields.io/badge/OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=5586A4"> -->
