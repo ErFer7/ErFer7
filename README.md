@@ -33,7 +33,7 @@
             <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB">
             <img src="https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031">
 <!--             <img src="https://img.shields.io/badge/Solidity-informational?style=for-the-badge&logo=solidity&logoColor=white&color=363636"> -->
-<!--             <img src="https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF"> -->
+            <img src="https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF">
         </div>
         <hr>
         <div class="row">
