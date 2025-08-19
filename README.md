@@ -27,7 +27,7 @@
             <img src="https://img.shields.io/badge/Css-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6">
             <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=2496ED">
 <!--             <img src="https://img.shields.io/badge/Unreal-informational?style=for-the-badge&logo=unrealengine&logoColor=white&color=0E1128"> -->
-            <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=000000">
+            <img src="https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&logoColor=white&color=F05032">
 <!--             <img src="https://img.shields.io/badge/OpenGL-informational?style=for-the-badge&logo=opengl&logoColor=white&color=5586A4"> -->
             <img src="https://img.shields.io/badge/Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F">
             <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB">
