@@ -36,11 +36,11 @@
             <img src="https://img.shields.io/badge/Kotlin-informational?style=for-the-badge&logo=kotlin&logoColor=white&color=7F52FF">
             <img src="https://img.shields.io/badge/LaTeX-informational?style=for-the-badge&logo=tex&logoColor=black&color=FFFFFF">
         </div>
-        <hr>
+        <!--<hr>
         <div class="row">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErFer7&theme=tokyonight&layout=donut-vertical&langs_count=10&count_private=true&hide_border=true"/>
             <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ErFer7&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-        </div>
+        </div>-->
         <hr>
         <h3><b>Contact info</b></h3>
         <div>
